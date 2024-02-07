@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "ролл ясай",
+      "photo": "products/1",
+      "description": "Огурец, авокадо, помидор, болгарский перец, листья салата, кунжут",
+      "price": 200,
+      "quantity": 1,
+      "like": true,
+      "weight": 185,
+      "inCart": false
+    },
+    {
+      "id": 2,
+      "name": "Мясные роллы",
+      "photo": "products/2",
+      "description": "Огурец, авокадо, помидор, болгарский перец, листья салата, кунжут",
+      "price": 240,
+      "quantity": 1,
+      "like": false,
+      "weight": 260,
+      "inCart": false
+    },
+    {
+      "id": 3,
+      "name": "ролл лайт",
+      "photo": "products/3",
+      "description": "Листья салата, огурец, перец, помидор, сырный соус, чипсы",
+      "price": 165,
+      "quantity": 1,
+      "like": false,
+      "weight": 190,
+      "inCart": false
+    },
+    {
+      "id": 4,
+      "name": "ролл веган",
+      "photo": "products/4",
+      "description": "Листья салата, авокадо, огурец, спаржа, сивид чука, кунжут",
+      "price": 200,
+      "quantity": 1,
+      "like": false,
+      "weight": 230,
+      "inCart": false
+    },
+    {
+      "id": 5,
+      "name": "ролл чиро",
+      "photo": "products/5",
+      "description": "Листья салата, копченая курица, болгарский перец, твердый сыр, чесночный соус",
+      "price": 210,
+      "quantity": 1,
+      "like": false,
+      "weight": 210,
+      "inCart": false
+    },
+    {
+      "id": 6,
+      "name": "ролл тайол",
+      "photo": "products/6",
+      "description": "Огурец, помидор, сыр творожный, бекон, сыр маасдам",
+      "price": 215,
+      "quantity": 1,
+      "like": false,
+      "weight": 215,
+      "inCart": false
+    },
+    {
+      "id": 7,
+      "name": "ролл Батакон",
+      "photo": "products/7",
+      "description": "Огурец, сыр творожный, бекон",
+      "price": 230,
+      "quantity": 1,
+      "like": false,
+      "weight": 220,
+      "inCart": false
+    },
+    {
+      "id": 8,
+      "name": "ролл калипсо",
+      "photo": "products/8",
+      "description": "Сыр творожный, огурец, мидии, стружка тунца",
+      "price": 185,
+      "quantity": 1,
+      "like": false,
+      "weight": 195,
+      "inCart": false
+    },
+    {
+      "id": 9,
+      "name": "ролл кавьяр",
+      "photo": "products/9",
+      "description": "Сыр творожный, помидор, огурец, мидии, майонез",
+      "price": 200,
+      "quantity": 1,
+      "like": false,
+      "weight": 240,
+      "inCart": false
+    },
+    {
+      "id": 10,
+      "name": "ролл чипу",
+      "photo": "products/10",
+      "description": "Сыр творожный, лосось, томаго, стружка тунца",
+      "price": 180,
+      "quantity": 1,
+      "like": false,
+      "weight": 190,
+      "inCart": false
+    },
+    {
+      "id": 11,
+      "name": "ролл катана",
+      "photo": "products/11",
+      "description": "Сыр творожный, краб, огурец, черный кунжут, лососевый тар-тар, спайси соус",
+      "price": 250,
+      "quantity": 1,
+      "like": false,
+      "weight": 240,
+      "inCart": false
+    },
+    {
+      "id": 12,
+      "name": "ролл мишику",
+      "photo": "products/12",
+      "description": "Угорь, краб, огурец, масаго, сыр творожный,  сырный соус, картофельные чипсы",
+      "price": 260,
+      "quantity": 1,
+      "like": false,
+      "weight": 210,
+      "inCart": false
+    }
+  ]
+}

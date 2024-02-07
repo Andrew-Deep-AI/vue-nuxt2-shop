@@ -6,7 +6,14 @@ export const state = () => ({
 export const mutations = {
   // ========= allProductsList Start =========
   ADD_PRODUCTS(state, products) {
-    state.allProductsList.push(...products);
+    let productExists = false;
+    products.forEach((product) => {
+      productExists = state.allProductsList.some((p) => p.id === product.id);
+    });
+
+    if (!productExists) {
+      state.allProductsList.push(...products);
+    }
   },
   TOGGLE_LIKE(state, product) {
     product.like = !product.like;

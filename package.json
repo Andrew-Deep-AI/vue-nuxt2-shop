@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "[my-framework] build --output public",
+    "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },

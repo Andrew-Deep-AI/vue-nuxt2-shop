@@ -90,3 +90,4 @@ sw.*
 *.swp
 
 GO_project.txt
+.vercel

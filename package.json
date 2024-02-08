@@ -23,5 +23,9 @@
     "@nuxtjs/vercel-builder": "^0.24.0",
     "sass": "^1.69.7",
     "sass-loader": "^10.5.2"
+  },
+  "engines": {
+    "npm": "8.19.4",
+    "node": "v16.20.2"
   }
 }

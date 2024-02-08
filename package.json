@@ -20,6 +20,7 @@
     "vue-template-compiler": "^2.7.10"
   },
   "devDependencies": {
+    "@nuxtjs/vercel-builder": "^0.24.0",
     "sass": "^1.69.7",
     "sass-loader": "^10.5.2"
   }
